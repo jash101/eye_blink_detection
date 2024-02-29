@@ -1,10 +1,5 @@
-# eye_blink_detection
-eye blink detection implementation based on pyimagesearch [post](https://www.pyimagesearch.com/2017/04/24/eye-blink-detection-opencv-python-dlib/)
+# Blink rate monitoring to help reduce eye irritation and dryness
 
 How to run:
-<pre><code>
-python3 eye_blink_detection.py
-</code></pre>
+```python eye_blink_detection.py```
 
-
-![alt text](https://github.com/mevo12318/eye_blink_detection/blob/master/results/blink.gif)
